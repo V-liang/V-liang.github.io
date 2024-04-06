@@ -286,7 +286,7 @@ section {
     flex: 1;
     background: white;
     border-radius: 2rem;
-    border: rgb(red, green, blue);
+    border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163,163,163);
     text-align: center;
 }
@@ -316,7 +316,7 @@ section {
 
 .article-container {
     display: flex;
-    text-align: inital;
+    text-align: initial;
     flex-wrap: wrap;
     flex-direction: row;
     gap: 2.5rem;
